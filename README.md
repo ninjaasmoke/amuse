@@ -6,5 +6,5 @@ A new Flutter application.
 
 This project is a starting point for a Flutter application.
 
-Tyring to clone spotify.
+An online Music Streamind app built on Flutter.
 Done with the UI, should work on the backend.
