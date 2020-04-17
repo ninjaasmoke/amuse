@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "594723068205",
+    "firebase_url": "https://muse-762c4.firebaseio.com",
+    "project_id": "muse-762c4",
+    "storage_bucket": "muse-762c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594723068205:android:fecb41a9cbc3239e6d9ba4",
+        "android_client_info": {
+          "package_name": "com.example.muse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594723068205-voav0eqh89q4sh44t65ur2uv5vjsr10r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.muse",
+            "certificate_hash": "484e7ea6df92ead11d5353baa90e1b498a745c65"
+          }
+        },
+        {
+          "client_id": "594723068205-22rf7aafsef44efi801c1sr5eafcl47t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9CP2k3XWAruZ1PYUr98PwOzi0G4sgZqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594723068205-22rf7aafsef44efi801c1sr5eafcl47t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "594723068205-7hkglbkr6qivbgeoncdl7uiok1dirha1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.muse"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594723068205:android:637fb5fa96c21dd76d9ba4",
+        "android_client_info": {
+          "package_name": "com.nithin.amuse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594723068205-vtvugeqj5hkkaiis38i38k2rqa2ccsev.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nithin.amuse",
+            "certificate_hash": "484e7ea6df92ead11d5353baa90e1b498a745c65"
+          }
+        },
+        {
+          "client_id": "594723068205-22rf7aafsef44efi801c1sr5eafcl47t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9CP2k3XWAruZ1PYUr98PwOzi0G4sgZqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594723068205-22rf7aafsef44efi801c1sr5eafcl47t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "594723068205-7hkglbkr6qivbgeoncdl7uiok1dirha1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.muse"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
